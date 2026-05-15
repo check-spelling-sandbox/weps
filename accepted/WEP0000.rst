@@ -79,7 +79,7 @@ Core Operations team
   There are several references in this WEP to the **core operations (CoreOps) team**. This team is currently known as the **core team** and the team description can be found on the `Core team page <https://www.writethedocs.org/team/#core-team>`_. The updated name is intended to reflect the purpose of the team more accurately in the context of its duties for the community. 
 
 WEP team
-  The **WEP team** is a new team that reviews WEP proposals for clarity and completeness. For the purpose of this WEP the team is initially composed of the Core Operations team, but in the the future will be open for other community members to join. 
+  The **WEP team** is a new team that reviews WEP proposals for clarity and completeness. For the purpose of this WEP the team is initially composed of the Core Operations team, but in the future will be open for other community members to join. 
   
 Note that the process to join and leave teams is out of scope of this WEP and will be handled in a future WEP.
 
